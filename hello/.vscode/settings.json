@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.plist": "xml",
+    "module.h": "c",
+    "printk.h": "c"
+  }
+}
